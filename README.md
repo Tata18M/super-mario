@@ -1,14 +1,12 @@
 <h1 align="center">
-  Site do filme Mario Bros
+  <img src="https://seeklogo.com/images/S/super-mario-logo-A8E04F3EC2-seeklogo.com.png" width="8%" height="auto"/>
+  Projeto Super Mario Bros
 </h1>
 
-<p align="center">
-  <img src=".github/preview.png" width="100%" />
-</p>
-
-## 💻 Projeto
-
-Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros** ao usar _HTML_ e _CSS_.
+## 💻 Link do Site
+<a href="https://tata18m.github.io/super-mario/" target="_blank">
+ <img src=".github/preview.png" width="100%" height="auto" />
+</a>
 
 ## 🚀 Tecnologias
 
@@ -26,13 +24,5 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 - [x] Efeitos com a propriedade `transform` do css
 
 
-## 📝 Tema de casa
-
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
-
-## 📺 Tutorial no Youtube
-
-<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
- <img src="https://img.youtube.com/vi/6Ok-kUrBGp8/maxresdefault.jpg" width="100%" height="auto" />
-</a>
+## 📝 Referência 
+<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">Leo Vargas</a>
